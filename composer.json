@@ -38,7 +38,7 @@
     "symfony/monolog-bundle": "3.6.*",
     "symfony/polyfill-apcu": "^1.0",
     "symfony/polyfill-mbstring": "^1.14.0",
-    "symfony/property-access": "4.4.*",
+    "symfony/property-access": "5.0.*",
     "symfony/property-info": "4.4.*",
     "symfony/serializer": "4.4.*",
     "symfony/swiftmailer-bundle": "^3.3.1",
